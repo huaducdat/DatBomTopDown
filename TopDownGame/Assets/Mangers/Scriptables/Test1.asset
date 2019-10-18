@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ac710b23807c1c49ab37c2fbdc0e2e9, type: 3}
+  m_Name: Test1
+  m_EditorClassIdentifier: 
+  playerSpeed: 2.5
+  enemiesSpeed: 0.9
+  DistanceCap: 4
+  DistanceCollision: 0.5
+  _timneCd: 1
+  _rotateSpeed: 3
